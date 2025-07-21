@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 45cbb09d7fda8a04b8c87182d1d67def
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 3bdfb7db06a85f84a9f960425484a71b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: cf7d7603a2629d54599f6cb9c97e01f9
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: ff3db19b2801e054a922fdf0a4ffe0e0
+  - enabled: 1
+    path: Assets/Scenes/KKH/Stage22.unity
+    guid: c153126957bbc4c468b59714d6b06bfc
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 474ec2356d99c774ab195843232255ee
+  - enabled: 0
+    path: Assets/Scenes/Title.unity
+    guid: 39cca1496104c08428740ff9dac26c20
+  - enabled: 0
+    path: Assets/Scenes/Tutorialtest.unity
+    guid: 26767aae4b41cdb4e8e6ed5c2b345f29
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+    guid: 93cc1c0e3b40a1b48949470274ec8faa
+  - enabled: 0
+    path: Assets/Scenes/Game.unity
+    guid: e4f1804b599a7cc4ebaa989c78e7ba3e
+  - enabled: 0
+    path: Assets/Scenes/TempScene/Temp1stStage.unity
+    guid: 5eb141cc1280c7a4197d33bb37ecc8ed
+  - enabled: 0
+    path: Assets/Scenes/TempScene/Temp2ndStage.unity
+    guid: cedae554d37dcaf40869fc187f53d438
+  - enabled: 0
+    path: Assets/Scenes/TempScene/Temp3rdStage.unity
+    guid: aebd7bfad318ea44bb572fc0e8e627e3
+  - enabled: 0
+    path: Assets/Scenes/CYJ/Template 1.unity
+    guid: d6d0976a9f416fb4789f8afacab23912
+  - enabled: 1
+    path: Assets/Scenes/UI Test.unity
+    guid: a463265ae049a9a439aa17bbb6368bd7
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

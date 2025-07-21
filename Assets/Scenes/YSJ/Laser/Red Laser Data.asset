@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f8ec7b2853e49499902a3d99079c2c, type: 3}
+  m_Name: Red Laser Data
+  m_EditorClassIdentifier: 
+  m_laserSparks: {fileID: 3123491389500495724, guid: 5ae8f66da913c21418b50ce3c00d8e9e, type: 3}
+  m_laserMaterial: {fileID: 2100000, guid: 0d3e242c629574a4c995a95736b6e5c7, type: 2}
+  m_properties:
+    m_layerMask:
+      serializedVersion: 2
+      m_Bits: 786440
+    m_physicsType: 1
+    m_maxReflections: 5
+    m_rayWidth: 0.2
+    m_angularRange: 360
+    m_raysNumber: 8
+    m_minRadialDistance: 1
+    m_maxRadialDistance: 25
+    m_rotate: 1
+    m_rotateClockwise: 1
+    m_rotationSpeed: 20
+    m_intermittent: 0
+    m_intervalTime: 2
+    m_initialTimingPhase: 0

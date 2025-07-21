@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc2ed249e1a375419cca8176f4ec99c, type: 3}
+  m_Name: Stage2_Dialog_1
+  m_EditorClassIdentifier: 
+  lines:
+  - text: "\uC548\uB155\uD558\uC2ED\uB2C8\uAE4C! \uC800\uB294 \uC2E4\uD5D8\uC2E4\uC758
+      \uBCF4\uC870\uC778 \u2018\uC11C\uD3EC\uD2B8\uBD07\u2019\uC774\uB77C\uACE0 \uD569\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC090\uC091?"
+    characterIconIndex: 1
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uB3C4\uC6C0\uC774 \uD544\uC694\uD558\uC2DC\uBA74 \uC81C\uAC8C \uB9D0\uC500\uD574\uC8FC\uC2DC\uAE38
+      \uBC14\uB78D\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC090\uC091!"
+    characterIconIndex: 1
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC2E4\uD5D8\uC2E4\uC758 \uC548\uB0B4\uB97C \uC6D0\uD558\uC2ED\uB2C8\uAE4C?"
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC090\uC091!"
+    characterIconIndex: 1
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC774\uACF3\uC740 \uC5EC\uB7EC \uD654\uD559\uBB3C\uC9C8\uB4E4\uC744 \uC11E\uC5B4
+      \uC0C8\uB85C\uC6B4 \uBB3C\uC9C8\uC744 \uB9CC\uB4E4\uC5B4\uB0B4\uB294 \uC2E4\uD5D8\uC2E4\uC785\uB2C8\uB2E4.
+      \uC2E4\uD5D8\uC5D0 \uD544\uC694\uD55C \uAE30\uB2A5\uB4E4\uC740 \uC774\uCABD\uC5D0
+      \uC900\uBE44\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uBC14\uB2E5\uC5D0 \uC788\uB294 \uBE44\uCEE4\uB85C \uC2E4\uD5D8\uC2E4\uC758
+      \uBC84\uD2BC\uB4E4\uC744 \uB204\uB97C \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r"
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uBE68\uAC04\uC0C9 \uBC84\uD2BC\uC744 \uB204\uB974\uBA74 \uC606\uC5D0
+      \uC4F0\uB808\uAE30\uD1B5\uC774 \uAE30\uC6B8\uC5B4\uC838\uC11C \uC6A9\uC561\uB4E4\uC744
+      \uC9D1\uC744 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uD30C\uB780\uC0C9 \uBC84\uD2BC\uC744 \uB204\uB974\uBA74 \uC870\uD569\uD558\uAE30\uC5D0
+      \uC704\uD5D8\uD55C \uC6A9\uC561\uB4E4\uC744 \uC5C6\uC568 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC81C \uBA38\uB9AC\uC704\uC5D0 \uCD08\uB85D\uC0C9 \uBC84\uD2BC\uC744
+      \uB204\uB974\uBA74 \uC870\uD569\uC5D0 \uC4F8 \uC218 \uC788\uB294 \uC6A9\uC561\uB4E4\uC744
+      \uC18C\uD658\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC81C \uC55E\uC5D0 \uC800\uC6B8\uC5D0 \uC6A9\uC561\uC744 \uC62C\uB824\uB193\uC73C\uBA74
+      \uC6A9\uC561\uC758 \uC815\uBCF4\uAC00 \uB098\uC635\uB2C8\uB2E4. \uADF8\uB9AC\uACE0
+      \uC800\uC6B8 \uC67C\uCABD\uC5D0 2\uAC1C\uC758 \uC800\uC6B8\uC5D0 \uC6A9\uC561\uC744
+      \uC62C\uB824\uB193\uC73C\uBA74 \uD569\uCCD0\uC9C4 \uC6A9\uC561\uC774 \uB098\uC635\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC090\uC091!"
+    characterIconIndex: 1
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uCD94\uAC00\uB85C \uC774\uC804 \uC2E4\uD5D8 \uAE30\uB85D\uC744 \uC5F4\uB78C\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC090\uC091!"
+    characterIconIndex: 1
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uB4F1\uB85D\uB418\uC9C0 \uC54A\uC740 \uC0AC\uC6A9\uC790\uB85C \uC5F4\uB78C
+      \uC815\uBCF4\uAC00 \uC81C\uD55C\uB429\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "Danger(3) + Danger(5) = \uC131\uACF5\nph(1.7) + Danger(8) = \uC131\uACF5\nDanger(10)
+      + ph(3.5) = \uC131\uACF5\nph(11.3) + ph(3.7) = \uC131\uACF5"
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC800\uC5D0\uAC8C \uB2E4\uC2DC \uB9D0\uAC78\uBA74 \uC774\uC804 \uC2E4\uD5D8
+      \uAE30\uB85D\uC744 \uBCF4\uC5EC\uB4DC\uB9AC\uACA0\uC2B5\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uCD94\uAC00\uB85C \uC704\uD5D8\uB3C4\uAC00 \uB192\uC740 \uACBD\uC6B0
+      \uCDA9\uACA9\uC744 \uC8FC\uBA74 \uD3ED\uBC1C\uD560 \uAC00\uB2A5\uC131\uC774
+      \uC788\uC73C\uB2C8 \uC8FC\uC758\uD558\uC2DC\uAE30 \uBC14\uB78D\uB2C8\uB2E4.
+      \uADF8\uB7FC \uCD94\uAC00\uB85C \uB3C4\uC6C0\uC774 \uD544\uC694\uD558\uC2DC\uBA74
+      \uBD88\uB7EC\uC8FC\uC138\uC694."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC090\uC091!\r"
+    characterIconIndex: 1
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []

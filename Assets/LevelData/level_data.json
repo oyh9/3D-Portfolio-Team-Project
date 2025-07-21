@@ -1,0 +1,1420 @@
+{
+    "levelName": "Template 3",
+    "metaData": {
+        "minBounds": {
+            "x": -8.0,
+            "y": 0.0,
+            "z": -0.009999999776482582
+        },
+        "maxBounds": {
+            "x": 239.89999389648438,
+            "y": 26.200000762939454,
+            "z": 6.0
+        },
+        "chunkSize": 10.0
+    },
+    "chunks": [
+        {
+            "position": {
+                "x": 8,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "e194d3dc",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 88.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 8,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "29f4a479",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 83.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 8,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "7e96cd34",
+                    "objectName": "Wall",
+                    "prefabName": "Wall",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Wall.prefab",
+                    "position": {
+                        "x": 94.41999816894531,
+                        "y": 5.0,
+                        "z": 4.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 9,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "b2e4c640",
+                    "objectName": "block_1",
+                    "prefabName": "block_1",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/block_1.prefab",
+                    "position": {
+                        "x": 99.5,
+                        "y": 4.0,
+                        "z": 1.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 9,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "1a408784",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 93.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 9,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "59981e93",
+                    "objectName": "mushroom_2",
+                    "prefabName": "mushroom_2",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/mushroom_2.prefab",
+                    "position": {
+                        "x": 94.5999984741211,
+                        "y": 0.4420515298843384,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 9,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "b11417db",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 98.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 9,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 0,
+                "z": -1
+            },
+            "objects": [
+                {
+                    "id": "ae78f701",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 19.149999618530275,
+                        "y": 0.0,
+                        "z": -0.009999999776482582
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 1,
+                        "y": 0,
+                        "z": -1
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "cbe2e2c2",
+                    "objectName": "Wall",
+                    "prefabName": "Wall",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Wall.prefab",
+                    "position": {
+                        "x": 10.0,
+                        "y": 5.0,
+                        "z": 4.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 1,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "3fa749c6",
+                    "objectName": "Wall",
+                    "prefabName": "Wall",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Wall.prefab",
+                    "position": {
+                        "x": 15.0,
+                        "y": 5.0,
+                        "z": 4.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 1,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 13,
+                "y": 1,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "091caee7",
+                    "objectName": "cloud_large",
+                    "prefabName": "cloud_large",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/cloud_large.prefab",
+                    "position": {
+                        "x": 136.02999877929688,
+                        "y": 15.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 13,
+                        "y": 1,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": -1,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "ef38e6b0",
+                    "objectName": "Ground 3box",
+                    "prefabName": "Ground 3box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 3box.prefab",
+                    "position": {
+                        "x": -3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": -1,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "2ec97cdb",
+                    "objectName": "cloud_medium",
+                    "prefabName": "cloud_medium",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/cloud_medium.prefab",
+                    "position": {
+                        "x": -2.200000047683716,
+                        "y": 4.0,
+                        "z": 4.5
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": -1,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "69623a6e",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": -8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": -1,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "7fa7799a",
+                    "objectName": "chest_wood",
+                    "prefabName": "chest_wood",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/chest_wood.prefab",
+                    "position": {
+                        "x": 60.0,
+                        "y": 0.5,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0,
+                        "w": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 6,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "2368ee4e",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 63.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 6,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "feef8af6",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 68.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 6,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "f77bb030",
+                    "objectName": "BrokenWall",
+                    "prefabName": "BrokenWall",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/BrokenWall.prefab",
+                    "position": {
+                        "x": 65.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 6,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "03f3d05b",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 29.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 2,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "7a3821cf",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 24.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 2,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 10,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "39f1204d",
+                    "objectName": "Wall",
+                    "prefabName": "Wall",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Wall.prefab",
+                    "position": {
+                        "x": 100.0,
+                        "y": 5.0,
+                        "z": 4.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 10,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "b41c2b72",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 103.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 10,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "220930fa",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 108.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 10,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "1375dcc5",
+                    "objectName": "mushroom_2",
+                    "prefabName": "mushroom_2",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/mushroom_2.prefab",
+                    "position": {
+                        "x": 71.7699966430664,
+                        "y": 0.4420515298843384,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 7,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "2ba2347a",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 73.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 7,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "8c85b2cf",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 78.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 7,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "439c942e",
+                    "objectName": "Spears",
+                    "prefabName": "Spears",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Spears.prefab",
+                    "position": {
+                        "x": 74.0,
+                        "y": 0.800000011920929,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 7,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "43ea5100",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 58.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 5,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "d15f8763",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 53.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 5,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 19,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "41c27b96",
+                    "objectName": "Trees",
+                    "prefabName": "Trees",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Trees.prefab",
+                    "position": {
+                        "x": 196.5,
+                        "y": 8.899999618530274,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 19,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 11,
+                "y": 1,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "a7b1c7f5",
+                    "objectName": "cloud_large",
+                    "prefabName": "cloud_large",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/cloud_large.prefab",
+                    "position": {
+                        "x": 110.0,
+                        "y": 15.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 11,
+                        "y": 1,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": -1,
+                "y": 0,
+                "z": -1
+            },
+            "objects": [
+                {
+                    "id": "0a3c2605",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": -0.019999999552965165,
+                        "y": 0.0,
+                        "z": -0.009999999776482582
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": -1,
+                        "y": 0,
+                        "z": -1
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 12,
+                "y": 1,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "d3fe3c52",
+                    "objectName": "cloud_small",
+                    "prefabName": "cloud_small",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/cloud_small.prefab",
+                    "position": {
+                        "x": 122.0,
+                        "y": 15.34000015258789,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 12,
+                        "y": 1,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "c20f59f0",
+                    "objectName": "mushroom_2",
+                    "prefabName": "mushroom_2",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/mushroom_2.prefab",
+                    "position": {
+                        "x": 4.081088066101074,
+                        "y": 0.4420515298843384,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "8d86a4c6",
+                    "objectName": "Wall",
+                    "prefabName": "Wall",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Wall.prefab",
+                    "position": {
+                        "x": 4.0,
+                        "y": 5.0,
+                        "z": 4.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 14,
+                "y": 2,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "7c7a60dd",
+                    "objectName": "cloud_small 1",
+                    "prefabName": "cloud_small 1",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/cloud_small 1.prefab",
+                    "position": {
+                        "x": 149.5,
+                        "y": 26.200000762939454,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 14,
+                        "y": 2,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 23,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "eb14b4c9",
+                    "objectName": "Tree",
+                    "prefabName": "Tree",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Tree.prefab",
+                    "position": {
+                        "x": 239.89999389648438,
+                        "y": 4.489999771118164,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 23,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "e0f4cc68",
+                    "objectName": "Cannons",
+                    "prefabName": "Cannons",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Cannons.prefab",
+                    "position": {
+                        "x": 43.74100112915039,
+                        "y": 1.5700000524520875,
+                        "z": 6.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0,
+                        "w": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 4,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "cb5a4c1d",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 48.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 4,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "3b437972",
+                    "objectName": "UnuseColWall",
+                    "prefabName": "UnuseColWall",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/UnuseColWall.prefab",
+                    "position": {
+                        "x": 41.0,
+                        "y": 1.0,
+                        "z": 6.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 4,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 0,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "c62a091d",
+                    "objectName": "Ground 5box",
+                    "prefabName": "Ground 5box",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/Ground 5box.prefab",
+                    "position": {
+                        "x": 34.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 3,
+                        "y": 0,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 16,
+                "y": 2,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "4aac3ab0",
+                    "objectName": "cloud_small 1",
+                    "prefabName": "cloud_small 1",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/cloud_small 1.prefab",
+                    "position": {
+                        "x": 162.0,
+                        "y": 20.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 16,
+                        "y": 2,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "position": {
+                "x": 17,
+                "y": 2,
+                "z": 0
+            },
+            "objects": [
+                {
+                    "id": "8fc23543",
+                    "objectName": "cloud_small 1",
+                    "prefabName": "cloud_small 1",
+                    "prefabPath": "Assets/Prefabs/2DTile/Use/cloud_small 1.prefab",
+                    "position": {
+                        "x": 176.39999389648438,
+                        "y": 25.100000381469728,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "isActive": true,
+                    "chunkPosition": {
+                        "x": 17,
+                        "y": 2,
+                        "z": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc2ed249e1a375419cca8176f4ec99c, type: 3}
+  m_Name: Stage2_Dialog_3
+  m_EditorClassIdentifier: 
+  lines:
+  - text: "\uACBD\uACE0! \uACBD\uACE0! \uD3ED\uBC1C \uC704\uD5D8\uC774 \uC788\uB294
+      \uACE0\uC704\uD5D8 \uBB3C\uC9C8\uC785\uB2C8\uB2E4. \uC8FC\uC758\uD558\uC2DC\uAE30\uBC14\uB78D\uB2C8\uB2E4."
+    characterIconIndex: 2
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "\uC090\uC091!"
+    characterIconIndex: 1
+    voiceClip: {fileID: 0}
+    waitForInput: 1
+    onLineComplete:
+      m_PersistentCalls:
+        m_Calls: []

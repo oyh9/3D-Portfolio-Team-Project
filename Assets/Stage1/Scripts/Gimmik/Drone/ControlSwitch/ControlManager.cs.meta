@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96b69fae34420b54e93195b64a831163
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dronePrefab: {fileID: 1914547237781472, guid: 0e00c6a2f9c8a504a8c8ef4b1f1f5fcd, type: 3}
+  - player: {fileID: 1069877052632172906, guid: 2fcbd21c78f84294d832d9fb8c9957c1, type: 3}
+  - spawnedDrone: {fileID: 1914547237781472, guid: 0e00c6a2f9c8a504a8c8ef4b1f1f5fcd, type: 3}
+  - controlledDrone: {fileID: 1914547237781472, guid: 76a1bc22ba5a08040a1706c78d65c057, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

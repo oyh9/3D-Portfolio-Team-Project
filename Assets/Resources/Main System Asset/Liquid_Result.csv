@@ -1,0 +1,27 @@
+Liquid1,Liquid2,Name,Color,Danger,ph
+Red Liquid,Orange Liquid,Liquid11,Crimson,3,7.2
+Red Liquid,Yellow Liquid,Liquid12,Sienna,6,5.6
+Red Liquid,Green Liquid,Liquid13,Sandybrown,3,5.4
+Red Liquid,Blue Liquid,Liquid14,Goldenrod,4,7.9
+Orange Liquid,Red Liquid,Liquid11,Crimson,3,7.2
+Orange Liquid,Yellow Liquid,Liquid15,Khaki,7,5.4
+Orange Liquid,Green Liquid,Liquid16,Olivedrab,4,5.2
+Orange Liquid,Blue Liquid,Liquid17,Plum,5,7.7
+Yellow Liquid,Red Liquid,Liquid12,Sienna,6,5.6
+Yellow Liquid,Orange Liquid,Liquid15,Khaki,7,5.4
+Yellow Liquid,Green Liquid,Liquid18,Chartreuse,7,3.6
+Yellow Liquid,Blue Liquid,Middle1,Darkmagenta,8,6.1
+Green Liquid,Red Liquid,Liquid13,Sandybrown,3,5.4
+Green Liquid,Orange Liquid,Liquid16,Olivedrab,4,5.2
+Green Liquid,Yellow Liquid,Liquid18,Chartreuse,7,3.6
+Green Liquid,Blue Liquid,Liquid20,Dodgerblue,5,5.9
+Blue Liquid,Red Liquid,Liquid14,Goldenrod,4,7.9
+Blue Liquid,Orange Liquid,Liquid17,Plum,5,7.7
+Blue Liquid,Yellow Liquid,Middle1,Darkmagenta,8,6.1
+Blue Liquid,Green Liquid,Liquid20,Dodgerblue,5,5.9
+Middle1,Green Liquid,Middle2,Turquoise,10,7.8
+Green Liquid,Middle1,Middle2,Turquoise,10,7.8
+Middle2,Orange Liquid,Middle3,Lemonchiffon,12,11.3
+Orange Liguid,Middle2,Middle3,Lemonchiffon,12,11.3
+Middle3,Red Liquid,Last Liquid,Black,13,15.0
+Red Liquid,Middle3,Last Liquid,Black,13,15.0

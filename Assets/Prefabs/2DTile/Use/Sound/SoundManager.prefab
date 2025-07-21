@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2874416552478224530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2588510238188121414}
+  - component: {fileID: 7216167972826555839}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2588510238188121414
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2874416552478224530}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7216167972826555839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2874416552478224530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e0c1e535a6711d4c91f1de3f75252cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bgmSource: {fileID: 0}
+  sfx2DSources:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  globalPoolSize: 10
+  sounds:
+  - name: 2DModeBGM
+    clip: {fileID: 8300000, guid: b84767942402c8f42a6d008adf50cb63, type: 3}
+    soundType: 0
+    volume: 0.05
+    pitch: 1
+    loop: 1
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Boom
+    clip: {fileID: 8300000, guid: 7e26c9daf4c32483b9c2790e662d3f1b, type: 3}
+    soundType: 2
+    volume: 1
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Die
+    clip: {fileID: 8300000, guid: 187a13dbed0bbb14a88d14278f409bbd, type: 3}
+    soundType: 1
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Footstep
+    clip: {fileID: 8300000, guid: 3779570010161be4f8d3f39f001ad606, type: 3}
+    soundType: 2
+    volume: 0.1
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: MushJump
+    clip: {fileID: 8300000, guid: 35e50a2d3663287408ef74e028dc3679, type: 3}
+    soundType: 2
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: SuperJump
+    clip: {fileID: 8300000, guid: a0010a1a0c474473b81729eb770c485f, type: 3}
+    soundType: 2
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: JumpingCloud
+    clip: {fileID: 8300000, guid: ffb159a21c8a04135a5616979c828fab, type: 3}
+    soundType: 2
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Block
+    clip: {fileID: 8300000, guid: 0b5de865586844050b285d4a3fd6b033, type: 3}
+    soundType: 2
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Jump
+    clip: {fileID: 8300000, guid: 76f8c00779b924bd1afa3e7a8ca2fa3e, type: 3}
+    soundType: 2
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Roll
+    clip: {fileID: 8300000, guid: cb038ff77dad346849c97d508b63b84d, type: 3}
+    soundType: 2
+    volume: 0.35
+    pitch: 0.95
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Walk3D
+    clip: {fileID: 8300000, guid: 34a994ddc4cc0ae4584abbdb0d121a9c, type: 3}
+    soundType: 2
+    volume: 0.05
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Jump3D
+    clip: {fileID: 8300000, guid: 9bd5b3c7440ae5e4eb95ff553ead821d, type: 3}
+    soundType: 2
+    volume: 0.05
+    pitch: 0.66
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Land
+    clip: {fileID: 8300000, guid: 02b231d9f4250d141800930599e50d7d, type: 3}
+    soundType: 2
+    volume: 1
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Eat
+    clip: {fileID: 8300000, guid: 41e9dd9d95cf4cd6f92439bd76a6589c, type: 3}
+    soundType: 2
+    volume: 1
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Launch
+    clip: {fileID: 8300000, guid: 417bfeede99581048ae4367f5aeadc4d, type: 3}
+    soundType: 2
+    volume: 1
+    pitch: 1
+    loop: 0
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  - name: Beam
+    clip: {fileID: 8300000, guid: 3a0b38879a9bf57a8966252994de74dd, type: 3}
+    soundType: 2
+    volume: 0.1
+    pitch: 1
+    loop: 1
+    minDistance: 0
+    maxDistance: 0
+    rolloffMode: 1
+  masterVolume: 1
+  bgmVolume: 1
+  sfxVolume: 1
